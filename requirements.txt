@@ -1,8 +1,3 @@
-# Standard library imports
-pip
-idna
-certifi
-charset-normalizer
 requests
-setuptools
-urllib3
+pandas
+xlrd
